@@ -1,0 +1,22 @@
+{
+    "blogs" : [
+    {
+      "title": "My new website",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempor sed quam vitae mattis. Donec lobortis ultrices est, vel ultricies magna laoreet ut. Nulla faucibus fermentum eros quis scelerisque. Suspendisse potenti.",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Welcome party!",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempor sed quam vitae mattis. Donec lobortis ultrices est, vel ultricies magna laoreet ut. Nulla faucibus fermentum eros quis scelerisque. Suspendisse potenti.",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "Web dev top tips",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempor sed quam vitae mattis. Donec lobortis ultrices est, vel ultricies magna laoreet ut. Nulla faucibus fermentum eros quis scelerisque. Suspendisse potenti.",
+      "author": "mario",
+      "id": 3
+    }
+  ]
+}
