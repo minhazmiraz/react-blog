@@ -23,6 +23,12 @@
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent accumsan, sem vel hendrerit aliquam, odio libero pellentesque risus, et bibendum ex felis et erat. Nunc blandit posuere tortor eu mollis. Nunc sed cursus neque. Sed et est sem. Sed fringilla, nisi eu hendrerit accumsan, mi elit ultricies nisl, euismod auctor odio justo a dolor. Vivamus ultricies massa libero, a porttitor nunc scelerisque et. Nunc eu ex sed ante pretium aliquet sit amet a dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean viverra ipsum quam. Curabitur convallis sem in lectus venenatis, ut vestibulum libero luctus. Curabitur ullamcorper diam ante, placerat pharetra augue elementum sit amet. In iaculis nisi eu vestibulum bibendum. Maecenas et iaculis lacus.",
       "author": "yoshi",
       "id": 4
+    },
+    {
+      "title": "Hello Ninja",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempor sed quam vitae mattis. Donec lobortis ultrices est, vel ultricies magna laoreet ut. Nulla faucibus fermentum eros quis scelerisque. Suspendisse potenti.",
+      "author": "yoshi",
+      "id": 5
     }
   ]
 }
